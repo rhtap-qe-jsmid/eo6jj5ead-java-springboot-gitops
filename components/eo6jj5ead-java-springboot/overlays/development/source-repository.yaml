@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eo6jj5ead-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/eo6jj5ead-java-springboot
